@@ -1,0 +1,5 @@
+trade\orderbook\MarketControllerIT.class
+trade\orderbook\OrderbookApplicationTests.class
+trade\orderbook\TestOrder.class
+trade\orderbook\MarketControllerTest.class
+trade\orderbook\TestMarket.class
